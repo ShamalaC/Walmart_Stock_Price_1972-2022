@@ -9,3 +9,10 @@ Prerequisites
 Data Collection
 Data Preprocessing
 Exploratory Data Analysis (EDA)
+Splitting the Data
+Building and Training the Model
+Using ARIMA Model
+Using LSTM Neural Network
+Evaluating the Model
+Making Predictions
+Conclusion
